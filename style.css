@@ -1,0 +1,264 @@
+.col-1 {
+        width: 8.3333%;
+    }
+
+    .col-2 {
+        width: 16.6666%;
+    }
+
+    .col-five {
+        width: 16.6666%;
+    }
+
+    .col-3 {
+        width: 25%;
+    }
+
+    .col-4 {
+        width: 33.3333%;
+    }
+
+    .col-5 {
+        width: 41.6666%;
+    }
+
+    .col-6 {
+        width: 50%;
+    }
+
+    .col-7 {
+        width: 58.3333%;
+    }
+
+    .col-8 {
+        width: 66.6666%;
+    }
+
+    .col-9 {
+        width: 75%;
+    }
+
+    .col-10 {
+        width: 83.3333%;
+    }
+
+    .col-11 {
+        width: 90%;
+    }
+
+    .col-12 {
+        width: 100%;
+    }
+
+    body {
+        font-family: Cambria (Headings);
+        background-color: white;
+    }
+
+    img {
+        float: left;
+        margin: 10px;
+        height: 64px;
+        width: 64px;
+    }
+
+    li {
+        float: left;
+        margin: 5px;
+        display: inline;
+        font-size: 16px;
+        padding-left: 10px;
+        padding-bottom: 5px;
+        padding-top: 5px;
+        padding-right: 20px;
+        ` margin-left: 30px;
+    }
+
+    #d1 {
+        background-color: white;
+        color: #A25A73;
+        height: 60px;
+        width: 100%;
+        border: 1px sold #97455F;
+        border-bottom-color: #97455F;
+    }
+
+    .lis1 {
+        font-size: 14px;
+        color: #A25A73;
+        padding-left: 800px;
+        padding-top: 20px;
+        padding-bottom: px;
+        15px;
+    }
+
+    .ll {
+        background-color: #97455F;
+        height: 50px;
+        width: 95%;
+        color: white;
+        padding-top: 25px;
+        padding-bottom: 5px;
+        padding-left: 5px;
+    }
+
+    .div1 {
+        position: relative;
+        top: -7px;
+        height: 100px;
+        width: 100%;
+        background-color: #ebebeb;
+    }
+
+    #sp {
+        float: left;
+        margin: 20px;
+        left: 20px;
+    }
+
+    .hr1 {
+        float: left;
+        margin: 5px;
+    }
+
+    .p1 {
+        float: left;
+        margin: 10px;
+    }
+
+    #din {
+        margin-left: 850px;
+        padding-top: 50px;
+    }
+
+    .inp1 {
+        left: 100px;
+        float: left;
+        margin: 0px;
+        height: 30px;
+        width: 300px;
+    }
+
+    .inp2 {
+        background-color: #97455F;
+        height: 30px;
+        width: 70px;
+    }
+
+    #img2 {
+        position: relative;
+        top: 10px;
+        height: 350px;
+        width: 900px;
+        margin-left: 50px;
+        margin-right: 50px;
+    }
+
+    .d4 {
+        position: relative;
+        top: 230px;
+        left: 490px;
+        background-color: #ADADAD;
+        height: 130px;
+        width: 450px;
+        color: red;
+        font-size: 72px;
+    }
+}
+#d2 {
+    position: relative;
+    top: 5px;
+}
+#home {
+    background-color: #6A3144;
+    border: 1px sold #6A3144;
+    height: 20px;
+    width: 50px;
+}
+.imgp2 {
+    position: relative;
+    left: 425px;
+    ;
+    width: 90%;
+    height: 20px;
+}
+#imgp2 {
+    position: relative;
+    top: 200px;
+    width: 150px;
+    height: 35px;
+}
+.div2 {
+    background-color: white;
+    background-image: url('pic/1.jpg');
+    repeat: no-repeat;
+    height: 450px;
+    width: 1000px;
+}
+table {
+    height: 300px;
+    width: 90%;
+}
+<!--/*td{
+padding-bottom:0px;
+padding-left:15px;
+padding-right:5px;*/
+-->.div3 {
+    position: relative;
+    top: 0px;
+    background-color: white;
+}
+.imgdiv3 {
+    margin: 10px;
+}
+#imgdiv4 {
+    margin: 10px;
+    height: 128px;
+    width: 128px;
+}
+#img44 {
+    margin: 10px;
+    height: 100px;
+    width: 100px;
+}
+h4 {
+    color: #97455F;
+}
+.hr3 {
+    float: left;
+    margin: 10px;
+}
+.h33 {
+    float: left;
+    margin: 0px;
+}
+.div4 {
+    position: relative;
+    top: 10px;
+}
+.dd4 {
+    height: 400px;
+    width: 500px;
+    float: left;
+    margin: 30px;
+}
+.div5 {
+    position: relative;
+    top: 300px;
+    color: #ffffff;
+    background-color: #97455F;
+    height: 25%;
+    width: 95%;
+}
+tab {
+    height: 400px;
+    width: 90%;
+}
+.imgdiv6 {
+    float: 20px;
+    height: 95px;
+    width: 95px;
+}
+.div6 {
+    background-color: #ebebeb;
+}
